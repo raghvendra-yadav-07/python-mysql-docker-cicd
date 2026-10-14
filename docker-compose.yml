@@ -29,7 +29,7 @@ services :
     - two-tier     
 
 volumes:
-  mysql-data:
+    mysql-data:
 
 networks :
- two-tier :
+    two-tier :
